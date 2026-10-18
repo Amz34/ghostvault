@@ -74,7 +74,7 @@ For developers, sysadmins, and automation engineers who want programmatic, verif
 
 ```bash
 # 1. Clone & Setup
-git clone https://github.com/your-username/ghostvault.git
+git clone https://github.com/Amz34/ghostvault.git
 cd ghostvault
 chmod +x ghostvault.py
 
