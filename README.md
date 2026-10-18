@@ -94,7 +94,7 @@ NOTICE: Local file system at ./my_vault: 266 matching files
 
 ---
 
-## 📊 Neuromarketing FAQ
+## 📊 Frequently Asked Questions
 
 **Q: Is Google Takeout really free?**  
 Yes. 100% free forever. Google only charges if you expand your active online cloud storage via Google One ($1.99/mo).
