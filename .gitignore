@@ -4,3 +4,4 @@ __pycache__/
 *.eml
 vault/
 gdrive_vault/
+*.log

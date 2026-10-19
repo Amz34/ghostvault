@@ -8,15 +8,28 @@
 
 ---
 
-## ⚡ The Dual Playbook
+---
 
-Choose your lane:
-1. **[Lane A: The Beginner Playbook](#-lane-a-the-beginner-playbook-no-code-3-clicks)** (No Terminal, 3 Clicks, Free Forever)
-2. **[Lane B: The Hacker / Engineer Playbook](#-lane-b-the-hacker--engineer-playbook-cli--rclone)** (CLI, IMAP Internals & Cryptographic Parity)
+## 🌐 Lane A: Web GUI & Pro Cloud Console (1-Click Local Dashboard)
+
+For users who want a visual dashboard with real-time quota meters, 1-click cloud destinations, and cryptographic parity reports:
+
+```bash
+# Launch GhostVault Web Console
+python3 web_app.py
+```
+Open **`http://localhost:8788`** in your browser.
+
+### Key Features:
+- **Unified Quota Meter**: Visualizes Gmail vs Drive utilization against your 15 GB pool.
+- **1-Click Cold Cloud Destinations**: Supports **Cloudflare R2** ($0 egress), **AWS S3 Glacier**, **Backblaze B2**, and **Local SSD**.
+- **Cryptographic Parity Engine**: Displays live MD5/SHA256 verification status (0 divergence guarantee).
+- **Pro Lifetime Edition ($19 One-Time)**: Permanent zero-loss protection vs paying Google $24/year indefinitely.
+- **Downloadable Recovery Manifest**: Instant JSON export of checksums and restore instructions.
 
 ---
 
-## 🟢 Lane A: The Beginner Playbook (No Code, 3 Clicks)
+## 🟢 Lane B: The Quick Google Sorter Playbook (No Code, 3 Clicks)
 
 If you don't care about code and just want that annoying red "80% full" banner gone without losing files:
 
@@ -38,7 +51,7 @@ Click **"Empty trash"**. Your storage immediately drops by gigabytes.
 
 ---
 
-## 💻 Lane B: The Hacker / Engineer Playbook (CLI & Rclone)
+## 💻 Lane C: The Hacker / Engineer Playbook (CLI & Rclone)
 
 For developers, sysadmins, and automation engineers who want programmatic, verifiable zero-loss archiving.
 
